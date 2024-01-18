@@ -2,6 +2,12 @@
 
 Automate document analysis and question generation using Optical Character Recognition (OCR) techniques and OpenAI's GPT-3.5-turbo model.
 
+![pdf](https://github.com/ynstf/Automated-Document-Analysis-and-Question-Generation/assets/107154559/64ac355c-c6ab-408d-8f23-1f34e57c1543)
+
+
+![Capture](https://github.com/ynstf/Automated-Document-Analysis-and-Question-Generation/assets/107154559/07e84483-c586-4a87-b146-14b9b6951284)
+
+
 ## Overview
 
 This project utilizes PyPDFium, EasyOCR, Tesseract, and OpenAI's GPT-3.5-turbo to extract text from images and generate insightful questions and answers based on the content. Enhance your document analysis workflow with this versatile Python project.
@@ -35,6 +41,8 @@ This project utilizes PyPDFium, EasyOCR, Tesseract, and OpenAI's GPT-3.5-turbo t
     ```
 
 4. Run the script:
+
+   **This module is much faster with a GPU.**
 
     ```bash
     python main.py
