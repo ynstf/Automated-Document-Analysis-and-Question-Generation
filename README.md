@@ -2,8 +2,11 @@
 
 Automate document analysis and question generation using Optical Character Recognition (OCR) techniques and OpenAI's GPT-3.5-turbo model.
 
+input:
+
 ![pdf](https://github.com/ynstf/Automated-Document-Analysis-and-Question-Generation/assets/107154559/64ac355c-c6ab-408d-8f23-1f34e57c1543)
 
+output:
 
 ![Capture](https://github.com/ynstf/Automated-Document-Analysis-and-Question-Generation/assets/107154559/07e84483-c586-4a87-b146-14b9b6951284)
 
